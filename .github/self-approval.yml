@@ -1,0 +1,9 @@
+self_approval_messages:
+  - "I self-approve!"
+  - "approved"
+
+from_author:
+  - "nick-eyebot"
+  - "erin-eyebot"
+
+apply_labels: []

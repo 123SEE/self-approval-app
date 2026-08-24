@@ -6,3 +6,9 @@ coverage/
 .vercel
 
 .env
+
+# GitHub App private keys — never commit one
+*.pem
+
+# Wizard scratch
+setup-github-app.sh
